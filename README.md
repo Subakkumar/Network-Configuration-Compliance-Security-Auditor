@@ -1,7 +1,5 @@
 # Network-Configuration-Compliance-Security-Auditor|
 
-# Network Configuration Compliance Auditor
-
 Automated security compliance checking for network devices based on CIS benchmarks and best practices.
 
 ## 🎯 Purpose
